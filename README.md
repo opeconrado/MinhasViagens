@@ -88,6 +88,16 @@ lib/
 - Marcadores para localização atual e selecionada
 - Confirmação de local com botão de check
 
+## Vídeo mostrando a utilização do app
+
+
+https://github.com/user-attachments/assets/25871aea-29bd-4209-b57d-2d91d7fa90ae
+
+
+
+## Link para testar a versão web da aplicação Flutter
+https://minhas-viagens-delta.vercel.app/
+
 ## 🚀 Como Usar
 1. Ao abrir o app, aguarde a tela inicial
 2. Clique no botão "+" para adicionar um novo local
